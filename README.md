@@ -58,7 +58,7 @@ src/
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/prince-maurya9151/Photo-gallery
 cd photo-gallery
 npm install
 ```
